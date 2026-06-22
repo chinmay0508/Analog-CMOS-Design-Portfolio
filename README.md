@@ -18,4 +18,4 @@ Problems were solved using hand analysis and validated through LTspice simulatio
 
 ## Documentation
 
-[Chapter 2 — MOS Device Physics PDF](./Chapter_2_MOS_Device_Physics_LTspice_Validation.pdf)
+[Chapter 2 — MOS Device Physics PDF](./Chapter 2 — Basic MOS Device Physics Design of Analog CMOS Integrated circuits - Behzad Razavi)
